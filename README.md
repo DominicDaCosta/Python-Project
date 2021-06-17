@@ -1,2 +1,2 @@
 # Python-Project
-CS1110 Final Project
+Final Project for C1110. Pacman game written in Python, utilizing the gamebox functionality
